@@ -18,8 +18,8 @@ Ensure you have the following installed
 
  
 ```sh
-git clone https://github.com/yourusername/projectname.git
-cd projectname
+git clone git@github.com:alfredocapasso1973/qopla_assignment.git
+cd qopla_assignment
 npm install
 npm run dev
 
